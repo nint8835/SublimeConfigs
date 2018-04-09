@@ -1,8 +1,7 @@
 // SublimeLinter Settings - User
 {
     "linters": {
-        "pycodestyle": {
-            "python": "E:\\Software\\Python364\\python.exe",
+        "flake8": {
             "args": [
                 "--ignore", "E501"
             ]

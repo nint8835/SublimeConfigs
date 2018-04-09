@@ -3,6 +3,11 @@
 	"in_process_packages":
 	[
 	],
+	"install_prereleases":
+	[
+		"SublimeLinter",
+		"SublimeLinter-flake8"
+	],
 	"installed_packages":
 	[
 		"A File Icon",
@@ -11,6 +16,6 @@
 		"Package Control",
 		"SublimeCodeIntel",
 		"SublimeLinter",
-		"SublimeLinter-pycodestyle"
+		"SublimeLinter-flake8"
 	]
 }

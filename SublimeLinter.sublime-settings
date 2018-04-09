@@ -1,0 +1,11 @@
+// SublimeLinter Settings - User
+{
+    "linters": {
+        "pycodestyle": {
+            "python": "E:\\Software\\Python364\\python.exe",
+            "args": [
+                "--ignore", "E501"
+            ]
+        }
+    }
+}

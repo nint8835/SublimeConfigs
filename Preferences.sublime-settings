@@ -26,5 +26,6 @@
 	"match_brackets_square": false,
 	"match_tags": false,
 
-	"translate_tabs_to_spaces": true
+	"translate_tabs_to_spaces": true,
+	"show_minimap": false
 }
